@@ -44,11 +44,11 @@
     "babel-plugin-bundled-import-meta": "^0.3.1",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
-    "regenerator-runtime": "^0.13.3",
+    "regenerator-runtime": "^0.13.7",
     "ts-dedent": "^1.1.1"
   },
   "devDependencies": {
-    "lit-html": "^1.0.0"
+    "lit-html": "^1.3.0"
   },
   "peerDependencies": {
     "@babel/core": "*",
