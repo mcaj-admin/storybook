@@ -150,7 +150,7 @@
     "@types/semver": "^7.1.0",
     "@types/serve-static": "^1.13.3",
     "@types/shelljs": "^0.8.7",
-    "@types/webpack": "^4.41.12",
+    "@types/webpack": "^5.28.0",
     "@types/webpack-env": "^1.15.2",
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
