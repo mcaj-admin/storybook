@@ -189,7 +189,7 @@
     "husky": "^4.0.10",
     "inquirer": "^7.0.0",
     "jest": "^26.0.0",
-    "jest-cli": "^26.0.0",
+    "jest-cli": "^27.0.6",
     "jest-config": "^26.0.0",
     "jest-diff": "^26.0.0",
     "jest-emotion": "^10.0.17",
